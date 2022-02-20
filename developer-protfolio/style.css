@@ -21,5 +21,10 @@ padding: 2%;}
     border-radius: 5px;
 }
 
-section{background-image:url(images/top-banner.png);
+.background-image{background-image:url(images/top-banner.png);
 background-repeat: no-repeat;}
+
+
+.dream-big{background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;}
